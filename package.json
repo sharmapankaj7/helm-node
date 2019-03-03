@@ -1,6 +1,6 @@
 {
   "name": "node-js-sample",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "A sample Node.js app",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "express": "^4.13.3"
   },
   "engines": {
-    "node": "4.0.0"
+    "node": "8.0.0"
   },
   "author": "Pankaj Sharma",
   "license": "MIT"
